@@ -30,11 +30,9 @@ Formül:
 ```
 
 ---
-
-### 🧮 Değerleri Ana Tabloya Kopyalama
-![image](images/paste_values_main.png)  
-Doldurulan veriler "paste values" komutuyla orijinal tabloya eklendi.
-
+### 🧮 Average ile Sales kolonundan GoogleAds verilerini doldurduk
+![image](images/googleads_average.png)  
+ 
 ---
 
 ### 📅 Gün Bazlı Tamamlama Stratejisi
